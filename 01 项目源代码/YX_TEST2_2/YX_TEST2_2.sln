@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YX_TEST2_2", "YX_TEST2_2\YX_TEST2_2.vcxproj", "{31A98F77-D8E0-4728-AB73-7382E762F18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A98F77-D8E0-4728-AB73-7382E762F18D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31A98F77-D8E0-4728-AB73-7382E762F18D}.Debug|Win32.Build.0 = Debug|Win32
+		{31A98F77-D8E0-4728-AB73-7382E762F18D}.Release|Win32.ActiveCfg = Release|Win32
+		{31A98F77-D8E0-4728-AB73-7382E762F18D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
